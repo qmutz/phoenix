@@ -40,7 +40,7 @@
     "prepare": "npm run snyk-protect"
   },
   "devDependencies": {
-    "ajv": "^6.10.0",
+    "ajv": "^6.12.3",
     "cross-env": "^5.2.0",
     "electron": "^5.0.6",
     "electron-builder": "^20.44.4",
