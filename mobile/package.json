@@ -30,7 +30,7 @@
     "tsc": "tsc --init --pretty --jsx react"
   },
   "dependencies": {
-    "@burstjs/core": "^0.1.1",
+    "@burstjs/core": "^0.5.1",
     "@burstjs/crypto": "^0.1.1",
     "@burstjs/http": "^0.1.1",
     "@burstjs/util": "^0.1.1",
