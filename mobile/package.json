@@ -33,7 +33,7 @@
     "@burstjs/core": "^0.1.1",
     "@burstjs/crypto": "^0.1.1",
     "@burstjs/http": "^0.1.1",
-    "@burstjs/util": "^0.1.1",
+    "@burstjs/util": "^0.5.1",
     "i18n-js": "^3.2.2",
     "lodash": "^4.17.13",
     "react": "16.8.3",
